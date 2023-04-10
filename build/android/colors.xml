@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 10 Apr 2023 22:09:44 GMT
+-->
+<resources>
+  <color name="color_base_brand_primary">#ff1a77d2</color>
+  <color name="color_base_brand_secondary">#ffe6964b</color>
+  <color name="color_base_black">#ff000000</color>
+  <color name="color_base_white">#ffffffff</color>
+  <color name="color_base_blue">#ff167cfb</color>
+  <color name="color_base_purple">#ff722ed1</color>
+  <color name="color_base_orange">#ffff9e00</color>
+  <color name="color_base_green">#ff0dc268</color>
+  <color name="color_base_yellow">#ffffd400</color>
+  <color name="color_base_red">#ffed0a34</color>
+  <color name="color_base_grey">#ff999999</color>
+  <color name="color_text_primary">#ff000000</color>
+  <color name="color_text_secondary">#ff333333</color>
+  <color name="color_text_tertiary">#ff999999</color>
+  <color name="color_text_white">#ffffffff</color>
+  <color name="color_text_link">#ff1a77d2</color>
+  <color name="color_background_bg_success">#ff0dc268</color>
+  <color name="color_background_bg_notify">#ffff9e00</color>
+  <color name="color_background_bg_rating">#ffffd400</color>
+  <color name="color_background_bg_error">#ffed0a34</color>
+  <color name="color_background_bg_brand">#ff1a77d2</color>
+  <color name="color_background_bg_king">#ff722ed1</color>
+  <color name="color_background_bg_black">#ff000000</color>
+  <color name="color_background_bg_dark">#ff333333</color>
+  <color name="color_background_bg_grey">#ff999999</color>
+  <color name="color_background_bg_white">#ffffffff</color>
+  <color name="color_background_bg_brand_contrast">#fff4f8fd</color>
+  <color name="color_background_bg_success_contrast">#ffe7f9f0</color>
+  <color name="color_background_bg_notify_contrast">#fffff5e6</color>
+  <color name="color_background_bg_error_contrast">#fffde7eb</color>
+  <color name="color_border_brd_base">#1a061232</color>
+  <color name="color_border_brd_hover">#4d061232</color>
+  <color name="color_border_brd_active">#33061232</color>
+  <color name="color_border_brd_focus">#66061232</color>
+  <color name="color_state_hover">#4d061232</color>
+  <color name="color_state_active">#33061232</color>
+  <color name="color_state_focus">#66061232</color>
+  <color name="color_gray_grey_20">#fffafafa</color>
+  <color name="color_icon_ic_primary">#ff000000</color>
+  <color name="color_icon_ic_secondary">#ff333333</color>
+  <color name="color_icon_ic_tertiary">#ff999999</color>
+  <color name="color_icon_ic_contrast">#ffffffff</color>
+  
+</resources>
