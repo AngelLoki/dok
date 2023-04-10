@@ -3,10 +3,18 @@
   "platforms": {
     "scss": {
       "transformGroup": "scss",
-      "buildPath": "build/scss/",
+      "buildPath": "output/scss/",
       "files": [{
         "destination": "_variables.scss",
         "format": "scss/variables"
+      }]
+    },
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "output/css/",
+      "files": [{
+        "destination": "_variables.css",
+        "format": "css/variables"
       }]
     },
     "android": {
@@ -116,6 +124,11 @@
         }
       }]
     },
+
+    "scripts": {
+      "build": "style-dictionary build"
+    },
+
     "ios-swift-separate-enums": {
       "transformGroup": "ios-swift-separate",
       "buildPath": "build/ios-swift/",
